@@ -1,11 +1,11 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Symplectic Hamiltonian HDG Methods for Shallow Water Equations"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA, USA"
+type: "Oral presentation"
+permalink: /talks/jmzs-shallow-water
+venue: "XXXVI Jornada de Matemática de la Zona Sur"
+date: 2024-04-24
+location: "Temuco, Chile"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Oral presentation at the XXXVI Jornada de Matemática de la Zona Sur, Universidad Católica de Temuco, Temuco, Chile.
