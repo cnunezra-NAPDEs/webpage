@@ -20,7 +20,7 @@ repository               : "cnunezra-NAPDES/webpage"
 # Site Author
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "unnamed.jpg"
   name             : "Cristhian Núñez Ramos"
   pronouns         :
   bio              : "Postdoctoral Associate at the University of Minnesota working on numerical analysis of PDEs, high-order finite element methods, discontinuous Galerkin methods, and efficient solvers for computational PDEs."
