@@ -6,64 +6,27 @@ permalink: /portfolio/shallow-water-simulations
 date: 2026-04-12
 ---
 
-This page presents numerical simulations for the shallow water equations obtained with **symplectic Hamiltonian HDG methods**. The goal is to illustrate how the method captures the wave dynamics while preserving the underlying Hamiltonian structure and providing a stable numerical approximation over time.
+These simulations illustrate wave propagation for the shallow water equations using **symplectic Hamiltonian HDG methods**. The experiments highlight stable dynamics and **numerical energy conservation**.
 
-In particular, these experiments highlight the role of the method in the **numerical conservation of energy** for the shallow water system.
+Related paper:  
+[Symplectic Hamiltonian HDG Methods for the Shallow Water Equations — arXiv:2507.02340](https://arxiv.org/abs/2507.02340)
 
-## Experiment 1: Wavefront against a column
+---
 
-This simulation shows the propagation of a wavefront interacting with a column obstacle. The experiment illustrates the ability of the symplectic Hamiltonian HDG formulation to resolve the dynamics while maintaining a physically meaningful energy behavior.
+## Wavefront against a column
 
 <video width="100%" controls>
   <source src="/webpage/files/wavefront-column.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
-The associated Hamiltonian is
-\[
-\mathcal{H}[\mathbf{u}, w]
-=
-\frac{1}{2}
-\int_{\Omega}
-\left(
-|\operatorname{div}\mathbf{w}|^2
-+
-\Phi |\mathbf{u}|^2
-\right).
-\]
+Wave interaction with an obstacle while preserving the energy behavior.
 
-## Experiment 2: Bathymetry influence
+---
 
-This simulation illustrates the influence of bathymetry on the wave propagation. In this case, the bottom topography modifies the flow structure, and the Hamiltonian formulation accounts for the corresponding forcing contribution.
+## Bathymetry influence
 
 <video width="100%" controls>
   <source src="/webpage/files/bathymetry-effect.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
-The corresponding Hamiltonian is
-\[
-\mathcal{H}[\mathbf{u}, w]
-=
-\frac{1}{2}
-\int_{\Omega}
-\left(
-|\operatorname{div}\mathbf{w}|^2
-+
-\Phi |\mathbf{u}|^2
--
-2\phi_s \,\operatorname{div}\mathbf{w}
-\right).
-\]
-
-## Interpretation
-
-These experiments show that **symplectic Hamiltonian HDG methods** provide a robust framework for the numerical approximation of shallow water equations, combining high-order accuracy with structure preservation. In particular, they are well suited for long-time simulations where the **conservation of energy** is essential for obtaining physically reliable solutions.
--
-2\phi_s \,\operatorname{div}\mathbf{w}
-\right).
-\]
-
-## Interpretation
-
-These experiments show that **symplectic Hamiltonian HDG methods** provide a robust framework for the numerical approximation of shallow water equations, combining high-order accuracy with structure preservation. In particular, they are well suited for long-time simulations where the **conservation of energy** is essential for obtaining physically reliable solutions.
+Wave propagation over variable bathymetry showing stable long-time dynamics.
