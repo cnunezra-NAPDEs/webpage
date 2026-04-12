@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor"
 permalink: /teaching/epn
 venue: "Escuela Politécnica Nacional"
-date: 2017-2021
+date: date: 2021-01-01
 location: "Quito, Ecuador"
 ---
 
