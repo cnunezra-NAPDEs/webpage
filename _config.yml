@@ -26,7 +26,7 @@ author:
   bio              : "Postdoctoral Associate at the University of Minnesota working on numerical analysis of PDEs, high-order finite element methods, discontinuous Galerkin methods, and efficient solvers for computational PDEs."
   location         : "Minneapolis, MN, USA"
   employer         : "University of Minnesota"
-  uri              : 
+  uri              :
   email            : "cnunezra@umn.edu"
 
   # Academic websites
@@ -202,10 +202,12 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+mathjax: true
 
 # Markdown Processing
 kramdown:
   input: GFM
+  math_engine: mathjax
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
