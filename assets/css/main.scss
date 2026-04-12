@@ -71,4 +71,13 @@
   text-align: justify;
 }
 
-
+.page__content p,
+.archive__item-excerpt,
+.archive__item-body,
+.archive__item-teaser,
+.list__item .archive__item,
+.list__item .archive__item-excerpt p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
