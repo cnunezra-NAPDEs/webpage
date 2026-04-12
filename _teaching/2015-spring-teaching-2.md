@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/puc-ta
+venue: "Pontificia Universidad Católica de Chile"
+date: 2025-03-05
+location: "Santiago, Chile"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for the course:
 
-Heading 1
-======
+- Mathematical Foundations for Artificial Intelligence
 
-Heading 2
-======
-
-Heading 3
-======
+Responsibilities included grading, student support, and lecture assistance.
