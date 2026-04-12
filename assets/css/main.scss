@@ -46,38 +46,22 @@
   text-align: justify;
   text-justify: inter-word;
   line-height: 1.6;
-}
-
-
-.page__content p {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
-.page__content li {
-  text-align: justify;
-}
-
-.page__content p {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
-.archive__item-excerpt {
-  text-align: justify;
-}
-
-.author__bio {
-  text-align: justify;
+  hyphens: auto;
 }
 
 .page__content p,
+.page__content li,
 .archive__item-excerpt,
+.archive__item-excerpt p,
 .archive__item-body,
+.archive__item-body p,
 .archive__item-teaser,
 .list__item .archive__item,
 .list__item .archive__item-excerpt p {
   text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
   text-justify: inter-word;
   hyphens: auto;
 }
