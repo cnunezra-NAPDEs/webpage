@@ -48,7 +48,7 @@ School of Mathematics
 
 ## Academic service
 
-In 2025, I co-organized the **Workshop on Applied Mathematics 2025** at the Pontificia Universidad Católica de Chile, contributing to speaker coordination, program planning, and workshop logistics.
+In 2025, I co-organized the [**Workshop on Applied Mathematics 2025**](https://appliedmathuc.github.io/workshop-applied-math-2025/) at the Pontificia Universidad Católica de Chile, contributing to speaker coordination, program planning, and workshop logistics.
 
 [Download CV](/webpage/files/Cristhian_Nunez_CV.pdf)
 
