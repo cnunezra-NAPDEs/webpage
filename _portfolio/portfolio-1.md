@@ -12,7 +12,7 @@ Presented at the **1st Heidelberg–Chile Workshop on Scientific Computing**, Sa
 
 <div oncontextmenu="return false;">
 <iframe 
-src="/webpage/files/hdg-vector-laplacian.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH"
+src="/webpage/files/hdg-vector-laplacian.pdf#toolbar=0&navpanes=0&scrollbar=0"
 width="100%" 
 height="900px"
 style="border:none;">
