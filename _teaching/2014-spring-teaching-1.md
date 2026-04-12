@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Adjunct Professor"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Instructor"
+permalink: /teaching/epn
+venue: "Escuela Politécnica Nacional"
+date: 2017-2021
+location: "Quito, Ecuador"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Instructor for undergraduate and graduate courses in applied mathematics, numerical analysis, and optimization between 2017 and 2021.
 
-Heading 1
-======
+Courses taught include:
 
-Heading 2
-======
+- Numerical Analysis for PDEs  
+- Numerical Analysis 
+- Linear Algebra  
+- Calculus I & II  
+- Modeling of PDEs  
+- Biomathematics  
+- Nonlinear Analysis   
 
-Heading 3
-======
+Responsibilities included lecture design, assessment development, and supervision of undergraduate students.
