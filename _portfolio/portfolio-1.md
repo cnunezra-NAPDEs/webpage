@@ -8,7 +8,7 @@ date: 2026-04-01
 
 **Poster presentation**, *1st Heidelberg–Chile Workshop on Scientific Computing*, Santiago, Chile.
 
-<iframe src="/webpage/files/HDG_vector_laplacian_poster.pdf"
+<iframe src="/webpage/files/hdg-vector-laplacian.pdf"
         width="100%"
         height="800px">
 </iframe>
