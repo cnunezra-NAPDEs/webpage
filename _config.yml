@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "night"
+site_theme               : "dirt"
 title                    : "Cristhian Núñez Ramos"
 title_separator          : "-"
 name                     : &name "Cristhian Núñez Ramos"
