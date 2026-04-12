@@ -11,9 +11,7 @@ I am a **Postdoctoral Associate** at the **School of Mathematics, University of 
 
 My research interests lie in the general area of Applied Mathematics. In particular, I am interested in the numerical analysis of PDEs and scientific computing with a strong emphasis on the development, analysis, and implementation of finite element methods (FEM) for practical applications in Engineering. 
 
-During my doctoral research, I focused on the design of structure-preserving finite element methods applied to PDEs with Hamiltonian sttructure. This work culminated in my dissertation, \textit{Symplectic Hamiltonian Discontinuous Galerkin Methods for Shallow Water Equations}, in which we developed optimal convergent numerical schemes that conserve energy and other key physical invariants.
-
-While my doctoral work focused on the design and analysis of structure-preserving discretizations, it left unanswered the question of how much additional accuracy can be extracted from existing Galerkin solutions via local post-processings. 
+During my doctoral research, I focused on the design of structure-preserving finite element methods applied to PDEs with Hamiltonian sttructure. This work culminated in my dissertation, \textit{Symplectic Hamiltonian Discontinuous Galerkin Methods for Shallow Water Equations}, in which we developed optimal convergent numerical schemes that conserve energy and other key physical invariants. While my doctoral work focused on the design and analysis of structure-preserving discretizations, it left unanswered the question of how much additional accuracy can be extracted from existing Galerkin solutions via local post-processings. 
 
 My overarching goal is to continue this work and develop post-processing techniques to high-fidelity engineering simulations of practical interest such that hypersonic flows and aeroheating predictions. 
 
