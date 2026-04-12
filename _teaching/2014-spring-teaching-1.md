@@ -18,6 +18,6 @@ Courses taught include:
 - Calculus I & II  
 - Modeling of PDEs  
 - Biomathematics  
-- Nonlinear Analysis   
+- Calculus of variations 
 
 Responsibilities included lecture design, assessment development, and supervision of undergraduate students.
