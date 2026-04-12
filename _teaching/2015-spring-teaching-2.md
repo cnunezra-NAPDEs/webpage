@@ -8,7 +8,7 @@ date: 2025-03-05
 location: "Santiago, Chile"
 ---
 
-Teaching assistant for the course:
+Teaching assistant for the course: 
 
 - Mathematical Foundations for Artificial Intelligence
 
