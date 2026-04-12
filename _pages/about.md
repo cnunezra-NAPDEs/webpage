@@ -28,7 +28,7 @@ During my doctoral research, I developed **structure-preserving high-order numer
 
 **Postdoctoral Associate**  
 School of Mathematics  
-University of Minnesota
+[University of Minnesota](https://cse.umn.edu/math/cristhian-nunez-ramos)
 
 ## Education
 
