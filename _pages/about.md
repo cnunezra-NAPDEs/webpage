@@ -33,19 +33,18 @@ University of Minnesota
 ## Education
 
 - **Ph.D. in Mathematics**, Pontificia Universidad Católica de Chile  
-  *Symplectic Hamiltonian Hybridizable Discontinuous Galerkin Methods for Shallow-Water Equations*  
-  [Thesis repository]([LINK_PHD](https://repositorio.uc.cl/handle/11534/105265))
+  *Tesis: Symplectic Hamiltonian Hybridizable Discontinuous Galerkin Methods for Shallow-Water Equations*  
+  [Thesis repository](https://repositorio.uc.cl/handle/11534/105265)
 
 - **M.Sc. in Mathematics**, Pontificia Universidad Católica de Chile  
-  *Hybridizable Discontinuous Galerkin Methods for Elliptic Problems*  
 
 - **M.Sc. in Optimization**, Escuela Politécnica Nacional  
-  *Un método combinado de Newton Semi-smooth y conjuntos de nivel para la simulación numérica de fluidos tipo Bingham con frontera libre*  
-  [Thesis repository]([LINK_MASTER_EPN](https://bibdigital.epn.edu.ec/handle/15000/19375))
+  *Tesis: A combined semismooth Newton and level-set method for the numerical simulation of free-boundary Bingham-type fluids*  
+  [Thesis repository](https://bibdigital.epn.edu.ec/handle/15000/19375)
 
 - **B.Sc. in Pure Mathematics**, Escuela Politécnica Nacional  
-  *Reducción de un Modelo de Control Óptimo de Dinámica Poblacional mediante Técnicas POD*  
-  [Thesis repository]([LINK_BACHELOR](https://bibdigital.epn.edu.ec/handle/15000/10375))
+  *Tesis: Reduction of an Optimal Control Model of Population Dynamics using POD techniques*  
+  [Thesis repository](https://bibdigital.epn.edu.ec/handle/15000/10375)
 
 ## Academic service
 
