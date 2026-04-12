@@ -9,9 +9,13 @@ redirect_from:
 
 I am a **Postdoctoral Associate** at the **School of Mathematics, University of Minnesota**.
 
-My research focuses on the **numerical analysis of partial differential equations**, with emphasis on **high-order finite element methods**, **discontinuous Galerkin methods**, and **hybridizable discontinuous Galerkin methods**. I am particularly interested in the design of efficient computational techniques that improve approximation quality and solver performance for challenging PDE problems.
+My research interests lie in the general area of Applied Mathematics. In particular, I am interested in the numerical analysis of PDEs and scientific computing with a strong emphasis on the development, analysis, and implementation of finite element methods (FEM) for practical applications in Engineering. 
 
-During my doctoral research, I developed **structure-preserving high-order numerical methods** for shallow-water equations from a Hamiltonian perspective. My current research focuses on the development of new numerical methods for elliptic equations based on FEM that improve approximation quality without considerably increasing computational cost on general meshes. The main contribution of this work is to take advantage of existing simulation output to propose an iterative process that recovers hidden information. Consequently, through this process, it is possible to obtain higher-quality and more accurate solutions.
+During my doctoral research, I focused on the design of structure-preserving finite element methods applied to PDEs with Hamiltonian sttructure. This work culminated in my dissertation, \textit{Symplectic Hamiltonian Discontinuous Galerkin Methods for Shallow Water Equations}, in which we developed optimal convergent numerical schemes that conserve energy and other key physical invariants.
+
+While my doctoral work focused on the design and analysis of structure-preserving discretizations, it left unanswered the question of how much additional accuracy can be extracted from existing Galerkin solutions via local post-processings. 
+
+My overarching goal is to continue this work and develop post-processing techniques to high-fidelity engineering simulations of practical interest such that hypersonic flows and aeroheating predictions. 
 
 ## Research interests
 
